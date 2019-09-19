@@ -1,0 +1,15 @@
+{
+  "name": "ksinctv",
+  "version": "1.0.0",
+  "description": "Bu yazılım Umut Can Arda tarafından geliştirilmektedir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umut Can Arda",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemon": "^1.19.1"
+  }
+}
