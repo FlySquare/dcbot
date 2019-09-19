@@ -1,14 +1,24 @@
 # dcbot
 Node.js ile yazılmış Discord Bot Örneği
 
+
+# Kurulum
+1- Bilgisayarınızda node.js olması gerek
+2- herhangi bir plasörde terminali açıp "npm install discord.js" yazıp kurun
+3- npm init yazarak proje varsayılanlarını ayarlayın
+4- node_modules klasörüne dokunmadan burdaki dosyaları ana dizinin içine atın
+
+
 # -- Botconfig.json Dosyası Bilgileri--
-Token = https://twitchapps.com/tmi/ adresinden alıcağınız tokeni yapıştırın
-
-Prefix = komutun önüne gelicek belirteç örn: !discord veya 'discord şeklinde ! veya '
-
-İsim = Botun twitch üzerinde bulunan adı
-
-Yapımcı İsmi = Sizin adınız
-
-Sahip Kanal = Hangi twitch kanalı üzerinde kullanacak iseniz o kanalın adı  
-
+   "yayinciisim": "bot sahibinin adı",
+    "token": "Botun tokeni",
+    "prefix": "komut öncesi işaret örn: !discord",
+    "botisim": "Botun adı",
+    "botlogo": "botun fotoğrafı (örn: https://i.hizliresim.com/LvQ86J.png)",
+    "yapımcıisim": "Yapımcı adı",
+    "yapımcılogo": "yapımcının fotoğrafı (örn: https://i.hizliresim.com/LvQ86J.png)",
+    "yeniuyekanaliid": "617479269345525966",
+    "gidenuyekanaliid": "617479269345525966",
+    "botchatid": "617476341725659155",
+    "yeniuyerolid": "617479638012133439",
+    "resimchatid": "617476341725659155"
