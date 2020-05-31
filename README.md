@@ -1,10 +1,10 @@
-# dcbot
-Node.js ile yazılmış Discord Bot Örneği
+# Kişisel Discord Bot
+Node.js ile yazılmış Discord Örneğidir.
 
 
 # Kurulum
-1- Bilgisayarınızda node.js olması gerek
-2- herhangi bir plasörde terminali açıp "npm install discord.js" yazıp kurun
+1- Bilgisayarınızda node.js olması gerek https://nodejs.org/en/ 
+2- herhangi bir klasörde terminali açıp "npm install discord.js" yazıp kurun
 3- npm init yazarak proje varsayılanlarını ayarlayın
 4- node_modules klasörüne dokunmadan burdaki dosyaları ana dizinin içine atın
 
